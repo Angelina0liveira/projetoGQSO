@@ -12,9 +12,9 @@ public class Soma {
 
         try {
             
-            double num1 = Double.parseDouble(op1);
-            double num2 = Double.parseDouble(op2);
-            double soma = num1 + num2;
+            double numero1 = Double.parseDouble(op1);
+            double numero2 = Double.parseDouble(op2);
+            double soma = numero1 + numero2;
             
             return Double.toString(soma);
             
